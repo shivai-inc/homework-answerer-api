@@ -1,4 +1,4 @@
 transformers
 tensorflow
-uvicorn[standard]
+uvicorn
 fastapi
