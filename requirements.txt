@@ -1,4 +1,4 @@
 transformers
-tensorflow
+tensorflow-cpu
 uvicorn
 fastapi
