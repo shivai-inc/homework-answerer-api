@@ -12,7 +12,7 @@ git clone https://github.com/shivai-inc/homework-answerer-api.git
 ## install from the requirements.txt folder using
 
 ```python
-pip install -r requirements. txt
+pip install -r requirements.txt
 ```
 
 ## put the command in cmd
